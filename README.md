@@ -1,9 +1,9 @@
-Campus Party
+#The Things Network at Campus Party
 
-[Logo Campus Party]
-[Logo The Things Network]
+![alt text](https://thethingsnetwork.org/static/ttn/media/The%20Things%20Uitlijning.svg)
+![alt text](http://nl.campus-party.org/files/large/e94987f712a99e0fcd6eeaec8c91784b.png)
 
-We are very happy you have joined Campus Party and we are happy to provide you with some awesome Internet of Things tools.
+##We are very happy you have joined Campus Party and we are happy to provide you with some awesome Internet of Things tools.
 
 [IMAGE OF ARDIUNO]
 
