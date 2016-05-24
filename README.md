@@ -5,7 +5,7 @@
 
 ##We are very happy you have joined Campus Party and we are happy to provide you with some awesome Internet of Things tools.
 
-[IMAGE OF ARDIUNO]
+![alt text](https://ksr-ugc.imgix.net/assets/004/698/248/e3392af097e6f803bb0bff292ee7dfa4_original.png?w=680&fit=max&v=1444912955&auto=format&lossless=true&s=399dc4e834a6d4fd15be63ec8a8f0512)
 
 The Things Network is offering you a LoRaWAN enabled Arduino and a LoRaWAN network together with EuroFiber and the Economic Board of Utrecht.
 
@@ -13,9 +13,10 @@ With these tools you can make any fancy connected application. This page tells y
 
 1. Get yourself familiar with The Things Network and it’s potential
     1. http://www.thethingsnetwork.org
-    2. wiki
-    3. forum
-    4. slack
+    2. Wiki: http://www.thethingsnetwork.org/wiki
+    3. Forum: http://forum.thethingsnetwork.org
+    4. Slack: http://slack.thethingsnetwork.org
+    5. Kickstarter: https://www.kickstarter.com/projects/419277966/the-things-network
 2. Think of some ideas!
 3. Get your Arduino and some sensors in the Makerspace.
 4. Start playing around with it.
